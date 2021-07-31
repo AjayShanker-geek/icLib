@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon_main.png'/> ICLib</h1><p align="center"></p>
+<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon_main.png'/> ICLib</h1><p align="center">⚡️ Find & View Components at your finger tips!</p>
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat)
 
