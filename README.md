@@ -21,7 +21,7 @@
 <b>For All</b>
 </summary> -->
 
-- ❌ No Ads!!!
+<!-- - ❌ No Ads!!! -->
 - 🔍 Search & Save Components
 - 🔨 Support Mouser & Element14 API<br />
 - 📑 Inbuilt PDF View<br />
